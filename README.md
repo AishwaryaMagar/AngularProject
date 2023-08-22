@@ -1,3 +1,3 @@
-# Project Name
+# Angular/React Project Name
 
 Website Contents
